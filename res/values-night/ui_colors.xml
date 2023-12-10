@@ -24,7 +24,7 @@
     <color name="colt_text_color_secondary">#89ffffff</color>
     <color name="oneplus_accent_text_color">#fff0648a</color>
     <color name="colt_contextual_card_solid_color">#ff1c1e20</color>
-    <color name="colt_accent_color_green">@color/mtx_accent_color_green_dark</color>
+    <color name="colt_accent_color_green">@color/colt_accent_color_green_dark</color>
     <color name="oneplus_homepage_icon_background">#000000</color>
     <color name="settingsHeaderColor">@*android:color/system_accent1_100</color>
     <color name="oneplus_accent_color">@color/settingsHeaderColor</color>
